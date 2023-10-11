@@ -8,8 +8,8 @@
  */
 
 // NOTE: When delay (in ms between two strokes) is too low, the site might bug out and the result page will not be shown
-const minDelay = 60;
-const maxDelay = 60;
+const minDelay = 120;
+const maxDelay = 170;
 
 
 
